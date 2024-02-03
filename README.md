@@ -7,4 +7,7 @@
 
 <img align="right" alt="Coding" width="450" src="utils/dev.gif">
 <br><br>
-- 🌱 I’m currently learning **React**
+
+- 🌱 I’m currently learning **React and ExpressJs**
+- 💬 Ask me about **Javascript, CSS, NodeJS**
+- 
