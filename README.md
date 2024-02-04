@@ -1,11 +1,11 @@
-![Logo](animatedIntro.png)
+![Logo](utils/banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <p align="center">
   I’m a web developer👩🏻‍💻 and technology enthusiast with a deep-seated passion for crafting intricate user interfaces that are not only visually appealing🤩 but also functionally sophisticated.I take pride in my ability to transform complex design challenges into seamless and intuitive web experiences.
 </p>
 
-<img align="right" alt="Coding" width="400" src="utils/dev.gif">
+<img align="right" alt="Coding" width="360" src="utils/dev.gif">
 <br><br>
 
 - 🌱 I’m currently learning **React and ExpressJs**
@@ -15,3 +15,23 @@
 - 🧐 I'm looking to **collaborate on projects** that are using **JavaScript and React**
 
 - 👩🏻‍💻 As a geek, I like to follow **technological trends**
+
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-005571.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=orange)
+![Figma](https://img.shields.io/badge/-figma-E10098?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-%230db7ed.svg?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![WebFlow](https://img.shields.io/badge/webflow-%23326ce5.svg?style=for-the-badge&logo=webflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)
+![VS Code](https://img.shields.io/badge/visualstudiocode-gray.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
