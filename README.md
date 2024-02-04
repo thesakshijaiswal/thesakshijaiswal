@@ -35,3 +35,11 @@
 ![Shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)
 ![VS Code](https://img.shields.io/badge/visualstudiocode-gray.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-red.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<h2 align="left">Activity:</h2>
+
+![thesakshijaiswal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0ADDA1&line=0ADDA1&point=0ADDA1&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
