@@ -5,8 +5,11 @@
   I’m a web developer👩🏻‍💻 and technology enthusiast with a deep-seated passion for crafting intricate user interfaces that are not only visually appealing🤩 but also functionally sophisticated.I take pride in my ability to transform complex design challenges into seamless and intuitive web experiences.
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <img align="right" alt="Coding" width="360" src="utils/dev.gif">
 <br><br>
+
 
 - 🌱 I’m currently learning **React and ExpressJs**
 
@@ -15,6 +18,8 @@
 - 🧐 I'm looking to **collaborate on projects** that are using **JavaScript and React**
 
 - 👩🏻‍💻 As a geek, I like to follow **technological trends**
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +44,9 @@
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h2 align="left">Activity:</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h2 align="left">📈 Activity:</h2>
 
 ![thesakshijaiswal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0ADDA1&line=0ADDA1&point=0ADDA1&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
