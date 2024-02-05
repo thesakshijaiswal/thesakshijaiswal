@@ -5,8 +5,6 @@
   I’m a web developer👩🏻‍💻 and technology enthusiast with a deep-seated passion for crafting intricate user interfaces that are not only visually appealing🤩 but also functionally sophisticated.I take pride in my ability to transform complex design challenges into seamless and intuitive web experiences.
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img align="right" alt="Coding" width="360" src="utils/dev.gif">
 <br><br>
 
@@ -18,6 +16,8 @@
 - 🧐 I'm looking to **collaborate on projects** that are using **JavaScript and React**
 
 - 👩🏻‍💻 As a geek, I like to follow **technological trends**
+
+- **Fun Fact 😜:** The thrill of turning a concept into a fully-functional website is what drives me day in and day out.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
