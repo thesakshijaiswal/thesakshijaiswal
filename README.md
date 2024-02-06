@@ -5,7 +5,7 @@
   I’m a web developer👩🏻‍💻 and technology enthusiast with a deep-seated passion for crafting intricate user interfaces that are not only visually appealing🤩 but also functionally sophisticated.I take pride in my ability to transform complex design challenges into seamless and intuitive web experiences.
 </p>
 
-<img align="right" alt="Coding" width="360" src="utils/dev.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <br><br>
 
 
