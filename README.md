@@ -46,7 +46,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h2 align="left">👩🏻‍💻 Most used Language:</h2>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=normal&card_width=500)
+
 <h2 align="left">📈 Activity:</h2>
 
 ![thesakshijaiswal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0ADDA1&line=0ADDA1&point=0ADDA1&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
+
