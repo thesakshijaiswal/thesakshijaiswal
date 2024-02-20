@@ -48,7 +48,7 @@
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=normal&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=normal&card_width=500)
 
 <h2 align="left">📈 Activity:</h2>
 
