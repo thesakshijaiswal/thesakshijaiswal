@@ -46,9 +46,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h2 align="left">🔥 Streaks:</h2>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=thesakshijaiswal&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=black&ring=03dac5&stroke=03dac5&fire=03dac5&sideNums=03dac5&currStreakNum=03dac5&currStreakLabel=03dac5&dates=03dac5&sideLabels=03dac5" alt="Sakshi's Streaks" width="100%" /> 
+
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=normal&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=normal&card_width=700)
 
 <h2 align="left">📈 Activity:</h2>
 
