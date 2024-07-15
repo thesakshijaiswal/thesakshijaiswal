@@ -48,7 +48,7 @@
 
 <h2 align="left">🔥 Streaks:</h2>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=thesakshijaiswal&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=black&ring=03dac5&stroke=03dac5&fire=03dac5&sideNums=03dac5&currStreakNum=03dac5&currStreakLabel=03dac5&dates=03dac5&sideLabels=03dac5" alt="Sakshi's Streaks" width="100%" /> 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=thesakshijaiswal&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=black&ring=ED9AC2&stroke=D24896&fire=ED9AC2&sideNums=ED9AC2&currStreakNum=ED9AC2&currStreakLabel=ED9AC2&dates=ED9AC2&sideLabels=ED9AC2" alt="Sakshi's Streaks" width="100%" /> 
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
@@ -56,6 +56,6 @@
 
 <h2 align="left">📈 Activity:</h2>
 
-![thesakshijaiswal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0ADDA1&line=0ADDA1&point=0ADDA1&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![thesakshijaiswal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ED9AC2&line=ED9AC2&point=ED9AC2&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
