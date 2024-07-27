@@ -17,7 +17,7 @@
 
 - 👩🏻‍💻 As a geek, I like to follow **technological trends**
 
-- **Fun Fact 😜:** The thrill of turning a concept into a fully-functional website is what drives me day in and day out.
+- **Fun Fact 😜:** I'm a turtle 🐢 of the race.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -44,7 +44,7 @@
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="10raph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ED9AC2&line=ED9AC2&point=ED9AC2&area_color=FFFFFF&title_color=FFFFFF&area=true0%">
 
 <h2 align="left">🔥 Streaks:</h2>
 
@@ -52,7 +52,7 @@
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
 
 <h2 align="left">📈 Activity:</h2>
 
