@@ -45,8 +45,7 @@
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="10raph.vercel.app/graph?username=thesakshijaiswal&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ED9AC2&line=ED9AC2&point=ED9AC2&area_color=FFFFFF&title_color=FFFFFF&area=true0%">
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">🔥 Streaks:</h2>
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=thesakshijaiswal&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=black&ring=ED9AC2&stroke=D24896&fire=ED9AC2&sideNums=ED9AC2&currStreakNum=ED9AC2&currStreakLabel=ED9AC2&dates=ED9AC2&sideLabels=ED9AC2" alt="Sakshi's Streaks" width="100%" /> 
