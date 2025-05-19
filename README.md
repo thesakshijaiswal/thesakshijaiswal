@@ -1,8 +1,7 @@
 ![Logo](utils/banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
-<h3 align="center">A passionate programmer from India</h3>
 <p align="center">
-  I’m a web developer👩🏻‍💻 and technology enthusiast with a deep-seated passion for crafting intricate user interfaces that are not only visually appealing🤩 but also functionally sophisticated.I take pride in my ability to transform complex design challenges into seamless and intuitive web experiences.
+I’m a web developer and tech geek from India, with a serious passion for making websites that not only look cool 😎 but work like a charm. I’m all about turning tricky design problems into smooth, easy-to-use experiences. I love keeping things fresh, simple, and fun while still getting the job done. Let’s create something awesome together! 🚀
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
@@ -11,9 +10,9 @@
 
 - 🌱 I’m currently learning **React and ExpressJs**
 
-- 💬 Ask me about **Javascript, CSS, NodeJS**
+- 💬 Ask me about **ReactJs, Tailwind CSS, Javascript, CSS, NodeJS**
 
-- 🧐 I'm looking to **collaborate on projects** that are using **JavaScript and React**
+- 🧐 I'm looking to **collaborate on MERN stack projects**
 
 - 👩🏻‍💻 As a geek, I like to follow **technological trends**
 
