@@ -1,4 +1,4 @@
-![Logo](utils/banner.png)
+![Logo](utils/Sakshi_Jaiswal_banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
 <p align="center">
 I’m a web developer and tech geek from India, with a serious passion for making websites that not only look cool 😎 but work like a charm. I’m all about turning tricky design problems into smooth, easy-to-use experiences. I love keeping things fresh, simple, and fun while still getting the job done. Let’s create something awesome together! 🚀
@@ -8,7 +8,7 @@ I’m a web developer and tech geek from India, with a serious passion for makin
 <br><br>
 
 
-- 🌱 I’m currently learning **React and ExpressJs**
+- 🌱 I’m currently learning **NextJs and Typescript**
 
 - 💬 Ask me about **ReactJs, Tailwind CSS, Javascript, CSS, NodeJS**
 
@@ -21,28 +21,7 @@ I’m a web developer and tech geek from India, with a serious passion for makin
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-005571.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongoDB-%23404d59.svg?style=for-the-badge&logo=mongoDB&logoColor=%47A248)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=orange)
-![Postman](https://img.shields.io/badge/postman-%23404d59.svg?style=for-the-badge&logo=postman&logoColor=%black)
-![Figma](https://img.shields.io/badge/-figma-E10098?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%230db7ed.svg?style=for-the-badge&logo=adobephotoshop&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)
-![VS Code](https://img.shields.io/badge/visualstudiocode-gray.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-red.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,typescript,nextjs,redux,babel,git,github,express,mongodb,vercel,postman,vscode,vite,figma,rollup)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="left">🔥 Streaks:</h2>
