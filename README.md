@@ -28,6 +28,11 @@ I’m a web developer and tech geek from India, with a serious passion for makin
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=thesakshijaiswal&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=black&ring=ED9AC2&stroke=D24896&fire=ED9AC2&sideNums=ED9AC2&currStreakNum=ED9AC2&currStreakLabel=ED9AC2&dates=ED9AC2&sideLabels=ED9AC2" alt="Sakshi's Streaks" width="100%" /> 
 
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesakshijaiswal&theme=dracula&no-frame=false&column=8" />
+</p>
+
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
