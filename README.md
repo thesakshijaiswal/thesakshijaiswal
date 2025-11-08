@@ -1,22 +1,19 @@
 ![Logo](utils/Sakshi_Jaiswal_banner.png)
-<h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" />, I'm Sakshi Jaiswal</h1>
 <p align="center">
-I’m a web developer and tech geek from India, with a serious passion for making websites that not only look cool 😎 but work like a charm. I’m all about turning tricky design problems into smooth, easy-to-use experiences. I love keeping things fresh, simple, and fun while still getting the job done. Let’s create something awesome together! 🚀
-</p>
+I’m a FullStack Engineer from India who loves turning ideas into 𝐜𝐥𝐞𝐚𝐧, 𝐟𝐚𝐬𝐭, 𝐚𝐧𝐝 𝐞𝐧𝐠𝐚𝐠𝐢𝐧𝐠 web experiences.  
+I care about the little details, design that feels right, code that runs smooth, and projects that just work. I enjoy solving real problems, learning new things, and building cool stuff with people who share the same energy.</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <br><br>
 
 
-- 🌱 I’m currently learning **NextJs and Typescript**
-
-- 💬 Ask me about **ReactJs, Tailwind CSS, Javascript, CSS, NodeJS**
-
-- 🧐 I'm looking to **collaborate on MERN stack projects**
-
-- 👩🏻‍💻 As a geek, I like to follow **technological trends**
-
-- **Fun Fact 😜:** I'm a turtle 🐢 of the race.
+- 🌱 Currently diving into **Next.js** & **TypeScript**
+- 💬 Let’s talk **React**, **Tailwind**, **JavaScript**, **CSS**, or **Node.js**  
+- 🤝 Open to collaborating on **MERN stack** projects  
+- 🧠 Always curious about what’s next in tech
+- 🎧 Surviving on **code, caffeine, and playlists**
+- 🐢 **Fun fact**: I start slow, but once I get going, I don’t stop
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
