@@ -27,12 +27,18 @@ I care about the little details, design that feels right, code that runs smooth,
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thesakshijaiswal&theme=dracula&no-frame=false&column=8" />
+  <a href="https://github.com/thesakshijaiswal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=thesakshijaiswal&no-bg=true&row=2&column=8&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=thesakshijaiswal&no-bg=true&row=2&column=8&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=thesakshijaiswal&no-bg=true&no-frame=true&row=2&column=8&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=thesakshijaiswal&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
 
 <h2 align="left">📈 Activity:</h2>
 
